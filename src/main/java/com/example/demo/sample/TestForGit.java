@@ -11,6 +11,8 @@ public class TestForGit implements CommandLineRunner {
 		System.out.println("hello Spring boot !!!!!");
 		System.out.println("this line is changed1");
 		System.out.println("this line is changed by anothter developer");
+		System.out.println("this changes are done in master )"
+		
 		
                 
 	}
