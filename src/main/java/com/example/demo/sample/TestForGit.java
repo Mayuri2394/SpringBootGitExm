@@ -12,7 +12,7 @@ public class TestForGit implements CommandLineRunner {
 		System.out.println("this line is changed1");
 		System.out.println("this line is changed by anothter developer");
 		System.out.println("this line is channged form dev branch");
-		System.out.println("this changes are done in master ");
+		System.out.println("this line is changed by dev ");
 		
                 
 	}
